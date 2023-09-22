@@ -1,0 +1,1 @@
+In this project I will be resolving exercises related to the concept of Binary Trees data structures using the C programming language. 
